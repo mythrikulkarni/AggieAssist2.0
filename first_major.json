@@ -3,7 +3,7 @@
 		"African American & African Studies": {
             "Total Units": "64",
 			"Courses": {
-                "Choose one": [["AAS 010", "AAS 012"], ["AAS 015", "AAS 017", "AAS 018", "AAS 050", "AAS 051", "AAS 052", "AAS 080"], ["ANT 002", ["ECN 001A", "ECN 001AV", "ECN 001AY"], ["ECN 001B", "ECN 001BV"], "SOL 001", ["POL 001", "PSC 001Y"], "POL 002", "PSC 001"], ["CHI 010", "NAS 001", "NAS 010", "GSW 050", "AMS 010", "ASA 001", "ASA 002"], ["AAS 0016", "AAS "]],
+                "Choose one": [["AAS 010", "AAS 012"], ["AAS 015", "AAS 017", "AAS 018", "AAS 050", "AAS 051", "AAS 052", "AAS 080"], ["ANT 002", ["ECN 001A", "ECN 001AV", "ECN 001AY"], ["ECN 001B", "ECN 001BV"], "SOL 001", ["POL 001", "PSC 001Y"], "POL 002", "PSC 001"], ["CHI 010", "NAS 001", "NAS 010", "GSW 050", "AMS 010", "ASA 001", "ASA 002"], ["AAS 0016", "AAS 051", "AAS/DRA 155A", "DRA 041A", "DRA 041B", "DRA 044A", "DRA 044B", "MUS 028", "MUS 105", "MUS 106"]],
 				"Choose two": ["HIS 015A", "HIS 015B", "HIS 017A", "HIS 017B"], 
                 "Mandatory courses": []
             }
