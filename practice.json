@@ -1,0 +1,18 @@
+{
+    "majors": {
+		"African American & African Studies": {
+            "Total Units": "64",
+			"Courses": {
+                "Choose one": [["AAS 010", "AAS 012"], ["AAS 015", "AAS 017", "AAS 018", "AAS 050", "AAS 051", "AAS 052", "AAS 080"], ["ANT 002", ["ECN 001A", "ECN 001AV", "ECN 001AY"], ["ECN 001B", "ECN 001BV"], "SOL 001", ["POL 001", "PSC 001Y"], "POL 002", "PSC 001"], ["CHI 010", "NAS 001", "NAS 010", "GSW 050", "AMS 010", "ASA 001", "ASA 002"]],
+				"Choose two": ["HIS 015A", "HIS 015B", "HIS 017A", "HIS 017B"], 
+				"Acronym": "SGML",
+				"Abbrev": "ISO 8879:1986",
+				"Choose three": {
+                    "para": "A meta-markup language, used to create markup languages such as DocBook.",
+					"GlossSeeAlso": ["GML", "XML"]
+                },
+				"GlossSee": "markup"
+            }
+        }
+    }
+}
