@@ -78,7 +78,7 @@ def major_list_2_JSON(lines, output_file):
     json.dump(jv, output_file, indent=4)
 
 
-with open("major.txt", "r") as file:
+with open("AA&AS.txt", "r") as file:
     content = file.read()
 
 split_file = content.strip().split("\n")
