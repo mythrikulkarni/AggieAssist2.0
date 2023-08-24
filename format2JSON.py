@@ -7,7 +7,7 @@ def major_list_2_JSON(lines, output_file):
     choose_two = []
     mandatory = []
 
-    i = 1
+    i = 2
     while i < len(lines):
         current_group = []
         or_group = []
@@ -72,7 +72,7 @@ def major_list_2_JSON(lines, output_file):
     }
 
     jv = {
-        lines[0]: jv_courses 
+        lines[1]: jv_courses 
     }
 
     json.dump(jv, output_file, indent=4)
